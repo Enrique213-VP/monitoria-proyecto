@@ -217,9 +217,9 @@
                                 <a class="img-link" href="<?php echo $Not[$i] ["url_noti"] ?>" target ="_blank"></a>
                                 <ul class="social-share">
                                     <li><a href="#"><i class="elegant-icon social_share"></i></a></li>
-                                    <li><a class="fb" href="#" title="Share on Facebook" target="_blank"><i class="elegant-icon social_facebook"></i></a></li>
-                                    <li><a class="tw" href="#" target="_blank" title="Tweet now"><i class="elegant-icon social_twitter"></i></a></li>
-                                    <li><a class="pt" href="#" target="_blank" title="Pin it"><i class="elegant-icon social_pinterest"></i></a></li>
+                                    <li><a class="fb" href="https://es-la.facebook.com/" title="Share on Facebook" target="_blank"><i class="elegant-icon social_facebook"></i></a></li>
+                                    <li><a class="tw" href="https://twitter.com/?lang=es" target="_blank" title="Tweet now"><i class="elegant-icon social_twitter"></i></a></li>
+                                    <li><a style="background: rgb(199, 101, 9)" class="bt" href="https://www.blogger.com/about/?bpli=1" target="_blank" title="Pin it"><i class="elegant-icon social_blogger" ></i></a></li>
                                 </ul>
                             </div>
                             <div class="post-content p-30">

@@ -745,6 +745,10 @@ figure .social-share:hover li:last-child,
 .header-social-network .list-inline-item a.in {
   background: #0a66c2;
 }
+.post-thumb .social-share li a.bt,
+.header-social-network .list-inline-item a.bt {
+  background: rgb(199, 101, 9);
+}
 .post-thumb .social-share li a.pt,
 .header-social-network .list-inline-item a.pt {
   background: #c00;
