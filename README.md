@@ -1,30 +1,30 @@
-# README.MD
-Making attractive and usable readme's. 
-This is a short description about the content of my proyect. This text have to be simple and explicit.
+# Explicacion del proyecto
+Culminando el proceso de monitoria academica se realizo un sitio web con una base de datos. 
+La idea era manejar un proyecto en produccion para entender la importancia del manejo de una BD
 
-## Content
-This proyect has two branches: develop1 and develop2. **develop1** contains the tests of the repositories and **develop2** contains the test of the use cases.
+## Contenido
+Manejamos Php, MariaDB y tecnologias de front-end.
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
+El proyecto lo subi a un host gratituto: [Proyecto de monitoria](http://monitoria213.great-site.net/)
 
-## How to clone
-If you have special requirements, you have to list it step by step.
-* This is the first step
-* Then you have to do this
-* Finally do this
+## Como clonar
+Si desean practicar o avanzar con esta idea, deben tener en cuenta lo siguiente.
+* Abrir la ruta donde instalaron xampp y en el htdoc poner el proyecto ( ejemplo- C:\xampp\htdocs), luego, en el navegador deben abrir el proyecto y la base de datos
 
-Markdown has enumation and nested lists.
 
-## Installation
-To install and run this proyect just type and execute
+## Instalacion
+Para correr y manejar este proyecto es necesario
 ```bash
-npm install
+xampp 
 ```
-## Preview
-Insert here an image of the preview if your project has one. The image can be into the project, you have to indicate the route and look like this.
+```bash
+navegador
+```
+## Vista del sitio
 
-![](/preview.jpg)
+
+![image](https://user-images.githubusercontent.com/70002378/122498885-827a1080-cfb5-11eb-8d9a-448bc464967f.png)
 
 ### Notes
-If you want to learn all about markdown i recommend you visit the site [markdown.es](https://markdown.es/sintaxis-markdown/)
+Si desean contactar para dialogar acerca del proyecto les dejo un link [Instagram](https://www.instagram.com/sergio_hidden/)
